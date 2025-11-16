@@ -114,5 +114,3 @@ This behavior confirms the **negative differential resistance (NDR)** characteri
 - Calculated negative resistance (Rₙ) ≈ –125 Ω.
 - The depth of modulation of the PIN diode can be obtained from the dB difference in the VSWR readings.  
 Hence, the experiment is successfully performed, and the negative differential resistance characteristics of the Gunn diode were verified.
-
-
